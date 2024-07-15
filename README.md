@@ -27,10 +27,3 @@ Website ini merupakan sistem informasi penjualan dan pemesanan online berbasis w
 2.	User pelanggan dapat membaca produk-produk yang tersedia untuk pemesanan online.
 3.	User pelanggan dapat melakukan pemesanan online, meliputi menambah produk yang dipesan, menambah dan mengurangi kuantitas produk yang dipesan, menghapus produk yang dipesan, mengisi data pemesanan, menambah data pengiriman, mengunggah bukti pembayaran, membatalkan pemesanan, konfirmasi penyelesaian pesanan, dan mencetak faktur atau bukti pemesanan.
 4.	User pelanggan dapat membaca pesanan online dan progress pesanan dari user itu sendiri.
-
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
